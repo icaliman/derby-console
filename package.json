@@ -1,11 +1,11 @@
 {
-  "name": "CMD",
-  "description": "Derby Command Line Example",
+  "name": "derby-console",
+  "description": "Derby Console Example",
   "version": "0.0.1",
-  "homepage": "https://github.com/icaliman/derby-cmd",
+  "homepage": "https://github.com/icaliman/derby-console",
   "repository": {
     "type": "git",
-    "url": "git://github.com/icaliman/derby-cmd.git"
+    "url": "git://github.com/icaliman/derby-console.git"
   },
   "scripts": {
     "start": "node server.js"
